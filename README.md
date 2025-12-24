@@ -9,5 +9,6 @@ data structures, and basic file handling.
 - Student Marks Analyzer
 - Smart To-Do CLI
 - ATM Simulator (with JSON persistence)
+- Contact Book
 
 > Note: These projects are practice-focused and represent progressive learning milestones.
