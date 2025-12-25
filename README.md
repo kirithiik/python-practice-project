@@ -10,5 +10,6 @@ data structures, and basic file handling.
 - Smart To-Do CLI
 - ATM Simulator (with JSON persistence)
 - Contact Book
+- Random Number Simulator
 
 > Note: These projects are practice-focused and represent progressive learning milestones.
