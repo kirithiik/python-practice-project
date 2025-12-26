@@ -11,5 +11,7 @@ data structures, and basic file handling.
 - ATM Simulator (with JSON persistence)
 - Contact Book
 - Password Generator
+- Dice Roll
+- Simple Calculator
 
 > Note: These projects are practice-focused and represent progressive learning milestones.
