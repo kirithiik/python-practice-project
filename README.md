@@ -9,9 +9,14 @@ data structures, and basic file handling.
 - Student Marks Analyzer
 - Smart To-Do CLI
 - ATM Simulator (with JSON persistence)
-- Contact Book
+- Contact Book (version 1)
 - Password Generator
 - Dice Roll
+- Quiz Genarator (version 1)
 - Simple Calculator
+- Simple ChatBot (Version 1)
+- email slicer
+- Quiz Genarator (version 2)
+- Chatbot Quiz Hybrid (version 1)
 
 > Note: These projects are practice-focused and represent progressive learning milestones.
