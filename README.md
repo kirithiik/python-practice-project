@@ -18,5 +18,7 @@ data structures, and basic file handling.
 - email slicer
 - Quiz Genarator (version 2)
 - Chatbot Quiz Hybrid (version 1)
+- library manager
+- library manager (version 2)
 
 > Note: These projects are practice-focused and represent progressive learning milestones.
